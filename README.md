@@ -5,7 +5,7 @@ Repo poświęcone nauce Git i GitHub
 
 ## dodawanie nowego repo
 utworzyć katalog
-'''
+```
 mkdir nowe
 cd nowe
-'''
+```
