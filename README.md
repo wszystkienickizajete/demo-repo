@@ -3,7 +3,7 @@ Repo poświęcone nauce Git i GitHub
 
 ## udało się skonfigurować klucze ssh
 
-## dodawanie nowego repo
+## dodawanie nowego repogit 
 utworzyć katalog zgodny z nazwą planowanego repo
 ```
 mkdir nowe
@@ -16,4 +16,13 @@ git remote add origin git@githiub.com:wszystkie/nowe
 potem mozna sprawdzic zdalne repo 
 ```
 git remote -v
+```
+
+potem juz tylko
+```
+git push origin main
+```
+lub po zdefiniowaniu upstreaam przez flage ```-u```, jedynie
+```
+git push
 ```
