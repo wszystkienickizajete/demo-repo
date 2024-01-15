@@ -22,7 +22,7 @@ potem juz tylko
 ```
 git push origin main
 ```
-lub po zdefiniowaniu upstreaam przez flage ```-u```, jedynie
+lub po zdefiniowaniu upstreaam, czyli miejsca do którego standardowo będę wykonywał _push_ przez flage ```-u```, jedynie
 ```
 git push
 ```
